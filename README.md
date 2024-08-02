@@ -20,4 +20,9 @@ npm i
 3. `index.js` 파일의 4번 줄 (`const queries = ['your', 'word', 'list'];
 `)을 자신이 찾고 싶은 단어로 변경합니다.
 4. 터미널에 아래 명령어를 입력합니다.
+
+```
+npm start
+```
+
 5. `output.md`를 확인합니다.
